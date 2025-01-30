@@ -23,3 +23,6 @@ header img{
 .shadow{
     text-shadow: 2px 2px 2px rgb(44, 202, 65)
 }
+main {
+    clear: left;
+}
