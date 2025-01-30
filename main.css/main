@@ -14,6 +14,12 @@ header h1{
 }
 header h2{
     font-size: 130;
-    color:#6495ED;
+    color:#7e24c9;
     text-indent 30px;
+}
+header img{
+    float: left;
+}
+.shadow{
+    text-shadow: 2px 2px 2px rgb(44, 202, 65)
 }
