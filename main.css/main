@@ -34,3 +34,8 @@ main h3{
     line: height 105%;
 
 }
+footer p.copyright{
+    text-align:center;
+    font-size:80%;
+
+}
