@@ -23,7 +23,6 @@ html {
      font-size: 175%;
      color: maroon;
      text-indent:30px;
-     border-top: 2px solid black;
  }
  header h2{
      font-size: 130%;
@@ -63,7 +62,6 @@ aside{
     width: 20%;
     float: right;
     background-color: #ffebc6;
-    padding: 25px;
 }
 footer{
     clear: both;
