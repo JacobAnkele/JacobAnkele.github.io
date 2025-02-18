@@ -45,6 +45,8 @@ html {
     margin-left: 2em;
  }
  article h3{
+    clear: both;
+    border-top: 2px solid black;
     column-span: all;
  }
 article img{
