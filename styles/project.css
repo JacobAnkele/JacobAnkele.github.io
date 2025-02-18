@@ -1,7 +1,10 @@
 html {
     background-image: linear-gradient(to left, white 0%, #da580d 100%);
  }
- 
+ header{
+    clear: both;
+    border-top: 2px solid black
+ }
  
  
  body{
