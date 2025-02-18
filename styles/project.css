@@ -28,6 +28,7 @@ html {
      font-size: 130%;
      color:#7e24c9;
      text-indent:30px;
+     clear: both;
      border-bottom: 2px solid black;
  }
  header img{
