@@ -61,39 +61,25 @@ article p::first-letter{
     font-style: italic;
     color: lightcoral;
 }
- main {
-     clear: left;
- }
- main h3{
-     margin: 3em 2em 1.5em;
-     border: 5px double blue;
-     border-radius: 20px;
-     box-shadow: 3px 3px 4px 4px red;
-     padding: 1em
- }
- main nav{
-     margin: 1.5em 2em 1.5em;
-     border: 5px dashed blue ;
-     border-radius: 20px;
-     box-shadow: 3px 3px 4px 4px red;
-     padding: .5em;
- 
- }
- main div{
-     margin: 1.5em 2em 0em 2em;
-     border: 5px dotted blue;
-     border-radius: 20px;
-     box-shadow: 3px 3px 4px 4px red;
-     padding: 1em;
- }
- 
- 
- #id{
-     line-height: 105%;
- 
- }
+aside{
+    width: 20%;
+    float: right;
+    background-color: #ffebc6;
+    padding: auto;
+}
+footer{
+    clear: both;
+    border-top: 2px solid black;
+}
  footer p.copyright{
      text-align:center;
      font-size:80%;
- 
  }
+p.fixed{
+    width: auto;
+    position: fixed;
+    bottom: 35%;
+    right: 0%;
+    border: 3px solid darkblue;
+    background-color: lightblue;
+}
