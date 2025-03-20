@@ -34,7 +34,7 @@ html {
  }
  header img{
      margin: 2em;
-     float: left;
+     float: right;
  }
  .shadow{
      text-shadow: 2px 2px 2px rgb(44, 202, 65)
