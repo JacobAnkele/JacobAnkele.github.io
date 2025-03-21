@@ -18,3 +18,7 @@ article p::first-letter{
     font-weight: bold;
     font-style: italic;
 }
+
+article{
+    clear: both;
+}
