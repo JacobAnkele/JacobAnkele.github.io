@@ -23,7 +23,7 @@ article{
     clear: both;
 }
 
-header h2{
+article h2{
     color: blue;
     font-size: 130%;
 }
