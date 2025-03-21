@@ -22,3 +22,7 @@ article p::first-letter{
 article{
     clear: both;
 }
+
+header h2{
+    color: blue;
+}
