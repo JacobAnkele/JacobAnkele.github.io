@@ -32,3 +32,13 @@ article img{
     margin-right: 1em;
     margin-bottom: 1em;
 }
+
+article{
+    clear: both;
+    width: 70%;
+    float: left;
+    column-count: 3;
+    column-rule: 2px dotted blue;
+    column-gap: 2em;
+    margin-left: 2em;
+ }
