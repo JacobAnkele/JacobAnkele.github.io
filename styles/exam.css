@@ -47,3 +47,18 @@ article{
     width: 95%;
     margin: 15px auto;
 }
+aside{
+    width: 20%;
+    float: right;
+    background-color: #ffebc6;
+    padding: 20px;
+}
+
+footer{
+    clear: both;
+    border-top: 2px solid black;
+}
+ footer p.copyright{
+     text-align:center;
+     font-size:80%;
+ }
