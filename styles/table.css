@@ -34,6 +34,8 @@ html, body {
     }    
 
 
+    
+
     @media only screen and (max-width: 425px) {
         th, td {
             display: block;
